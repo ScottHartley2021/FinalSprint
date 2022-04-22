@@ -1,0 +1,55 @@
+body {
+  background-image: url("pics/265-2656438_call-of-cthulhu.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#Top {
+  display: flex;
+  justify-content: center;
+}
+#navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+#hp {
+  display: flex;
+  justify-content: center;
+}
+#sidebar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  align-content: stretch;
+}
+#HP {
+  display: flex;
+}
+.lovecraft {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+  text-shadow: 0 0 10px limegreen;
+}
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px limegreen;
+}
+ul {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: white;
+  text-shadow: 0 0 10px limegreen;
+}
+#books {
+  display: flex;
+  justify-content: center;
+}
